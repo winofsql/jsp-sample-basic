@@ -43,7 +43,7 @@ form {
 <div class="alert alert-primary"><%= title %></div>
 
 <% 
-out.println( "こんらちは" ); 
+out.println( "こんにちは" ); 
 %>
 
 </div>
